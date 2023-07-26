@@ -1,0 +1,962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="311.6223"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-155.583313 -234.843063 311.622314 392.843079" height="392.84308"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="0.2764179"
+              d="M 135.674362,-15.425483 C 110.327003,-24.462238 85.861107,-76.038399 94.897858,-101.385757"
+              class="id_america id_china" stroke-opacity="0.49803922"
+              stroke="#ffc274"/>
+        <path fill="none" stroke-width="0.32970148"
+              d="M 135.674362,-15.425483 C 147.437103,-0.322083 142.426117,39.977123 127.322708,51.739864"
+              class="id_america id_covid-19" stroke-opacity="0.49803922"
+              stroke="#ffa24d"/>
+        <path fill="none" stroke-width="0.063283585"
+              d="M 135.674362,-15.425483 C 142.601334,40.581482 68.981339,134.982376 12.974379,141.909348"
+              class="id_america id_federal_government"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="3.0205224"
+              d="M 135.674362,-15.425483 C 80.551025,-16.069187 -1.168402,-99.719734 -0.524699,-154.843063"
+              class="id_america id_nigeria" stroke-opacity="0.49803922"
+              stroke="#ffc274"/>
+        <path fill="none" stroke-width="0.9424627"
+              d="M 135.674362,-15.425483 C 97.598969,-23.597584 52.744026,-92.968826 60.916126,-131.044220"
+              class="id_america id_Western_Africa" stroke-opacity="0.49803922"
+              stroke="#ffc274"/>
+        <path fill="none" stroke-width="0.32970148"
+              d="M 112.990387,-74.152023 C 64.044044,-27.220238 -79.773155,-30.242065 -126.704941,-79.188408"
+              class="id_boko_haram id_buhari" stroke-opacity="0.49803922"
+              stroke="#9f62b9"/>
+        <path fill="none" stroke-width="0.19649254"
+              d="M 112.990387,-74.152023 C 121.984085,-71.870605 132.052521,-54.957920 129.771103,-45.964214"
+              class="id_boko_haram id_chibok" stroke-opacity="0.49803922"
+              stroke="#ffc274"/>
+        <path fill="none" stroke-width="0.03664179"
+              d="M 112.990387,-74.152023 C 111.417732,2.855824 -6.453007,116.008606 -83.460854,114.435951"
+              class="id_boko_haram id_democratic_party"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="0.649403"
+              d="M 112.990387,-74.152023 C 136.199463,-10.936548 76.189850,118.700279 12.974379,141.909348"
+              class="id_boko_haram id_federal_government"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="0.03664179"
+              d="M 112.990387,-74.152023 C 135.499878,-60.100880 148.187378,-5.259948 134.136230,17.249533"
+              class="id_boko_haram id_kaduna" stroke-opacity="0.49803922"
+              stroke="#ffc274"/>
+        <path fill="none" stroke-width="0.03664179"
+              d="M 112.990387,-74.152023 C 128.422455,-3.333807 45.343216,126.041603 -25.475002,141.473663"
+              class="id_boko_haram id_national_assembly"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="5.125224"
+              d="M 112.990387,-74.152023 C 74.149162,-67.587212 6.040110,-116.001831 -0.524699,-154.843063"
+              class="id_boko_haram id_nigeria" stroke-opacity="0.49803922"
+              stroke="#ffc274"/>
+        <path fill="none" stroke-width="0.14320895"
+              d="M 112.990387,-74.152023 C 87.124046,-0.847816 -61.631767,70.308968 -134.935974,44.442627"
+              class="id_boko_haram id_progressives_congress"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="0.78261197"
+              d="M 112.990387,-74.152023 C 91.197090,-75.115616 59.952538,-109.250931 60.916126,-131.044220"
+              class="id_boko_haram id_Western_Africa"
+              stroke-opacity="0.49803922" stroke="#ffc274"/>
+        <path fill="none" stroke-width="0.2764179"
+              d="M -126.704941,-79.188408 C -125.146675,-97.367325 -95.540894,-122.298302 -77.361977,-120.740036"
+              class="id_buhari id_bukola_saraki" stroke-opacity="0.49803922"
+              stroke="#4003ff"/>
+        <path fill="none" stroke-width="0.3030597"
+              d="M -126.704941,-79.188408 C -49.713760,-103.808289 102.702835,-25.251320 127.322708,51.739864"
+              class="id_buhari id_covid-19" stroke-opacity="0.49803922"
+              stroke="#9f4292"/>
+        <path fill="none" stroke-width="0.35634327"
+              d="M -126.704941,-79.188408 C -79.331253,-49.112354 -53.384800,67.062256 -83.460854,114.435951"
+              class="id_buhari id_democratic_party" stroke-opacity="0.49803922"
+              stroke="#6f81bb"/>
+        <path fill="none" stroke-width="1.0756717"
+              d="M -126.704941,-79.188408 C -54.549522,-62.904724 29.258064,69.753929 12.974379,141.909348"
+              class="id_buhari id_federal_government"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="0.16985075"
+              d="M -126.704941,-79.188408 C -122.843323,-70.493591 -130.093140,-51.658943 -138.787949,-47.797333"
+              class="id_buhari id_health_sector" stroke-opacity="0.49803922"
+              stroke="#4003ff"/>
+        <path fill="none" stroke-width="0.03664179"
+              d="M -126.704941,-79.188408 C -126.381622,-89.013695 -111.158722,-103.266640 -101.333435,-102.943321"
+              class="id_buhari id_health_workers" stroke-opacity="0.49803922"
+              stroke="#4003ff"/>
+        <path fill="none" stroke-width="0.40962687"
+              d="M -126.704941,-79.188408 C -55.249107,-112.069061 101.255577,-54.206299 134.136230,17.249533"
+              class="id_buhari id_kaduna" stroke-opacity="0.49803922"
+              stroke="#9f62b9"/>
+        <path fill="none" stroke-width="0.063283585"
+              d="M -126.704941,-79.188408 C -70.469444,-51.030685 -28.352798,75.559135 -56.510521,131.794632"
+              class="id_buhari id_medical_association"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="0.9424627"
+              d="M -126.704941,-79.188408 C -62.326534,-55.301979 -1.588573,77.095261 -25.475002,141.473663"
+              class="id_buhari id_national_assembly" stroke-opacity="0.49803922"
+              stroke="#6f81bb"/>
+        <path fill="none" stroke-width="9.387911"
+              d="M -126.704941,-79.188408 C -116.599815,-119.555389 -40.891678,-164.948181 -0.524699,-154.843063"
+              class="id_buhari id_nigeria" stroke-opacity="0.49803922"
+              stroke="#9f62b9"/>
+        <path fill="none" stroke-width="0.5961194"
+              d="M -126.704941,-79.188408 C -103.624939,-52.815994 -108.563553,21.362625 -134.935974,44.442627"
+              class="id_buhari id_progressives_congress"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="0.16985075"
+              d="M -126.704941,-79.188408 C -110.357506,-57.576256 -118.254601,-0.636883 -139.866745,15.710548"
+              class="id_buhari id_senate_committee" stroke-opacity="0.49803922"
+              stroke="#6f81bb"/>
+        <path fill="none" stroke-width="0.14320895"
+              d="M -126.704941,-79.188408 C -116.693184,-63.300610 -125.507256,-24.451294 -141.395050,-14.439543"
+              class="id_buhari id_state_government" stroke-opacity="0.49803922"
+              stroke="#6f81bb"/>
+        <path fill="none" stroke-width="1.2621642"
+              d="M -126.704941,-79.188408 C -99.551888,-127.083786 13.020753,-158.197266 60.916126,-131.044220"
+              class="id_buhari id_Western_Africa" stroke-opacity="0.49803922"
+              stroke="#9f62b9"/>
+        <path fill="none" stroke-width="0.063283585"
+              d="M -77.361977,-120.740036 C -31.546551,-72.485062 -35.205883,68.620529 -83.460854,114.435951"
+              class="id_bukola_saraki id_democratic_party"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="0.72932833"
+              d="M -77.361977,-120.740036 C -6.764828,-86.277435 47.436981,71.312195 12.974379,141.909348"
+              class="id_bukola_saraki id_federal_government"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="0.51619405"
+              d="M -77.361977,-120.740036 C -14.541843,-78.674698 16.590340,78.653534 -25.475002,141.473663"
+              class="id_bukola_saraki id_national_assembly"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="4.7522388"
+              d="M -77.361977,-120.740036 C -68.815125,-142.928101 -22.712761,-163.389923 -0.524699,-154.843063"
+              class="id_bukola_saraki id_nigeria" stroke-opacity="0.49803922"
+              stroke="#9f62b9"/>
+        <path fill="none" stroke-width="0.03664179"
+              d="M -77.361977,-120.740036 C -55.840240,-76.188698 -90.384636,22.920891 -134.935974,44.442627"
+              class="id_bukola_saraki id_progressives_congress"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="0.14320895"
+              d="M -77.361977,-120.740036 C -62.572811,-80.948967 -100.075668,0.921383 -139.866745,15.710548"
+              class="id_bukola_saraki id_senate_committee"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="0.16985075"
+              d="M -77.361977,-120.740036 C -51.767189,-150.456497 31.199669,-156.639008 60.916126,-131.044220"
+              class="id_bukola_saraki id_Western_Africa"
+              stroke-opacity="0.49803922" stroke="#9f62b9"/>
+        <path fill="none" stroke-width="0.08992537"
+              d="M 129.771103,-45.964214 C 143.986481,14.969843 73.908432,127.693977 12.974379,141.909348"
+              class="id_chibok id_federal_government"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="1.288806"
+              d="M 129.771103,-45.964214 C 81.936165,-41.680817 3.758696,-107.008125 -0.524699,-154.843063"
+              class="id_chibok id_nigeria" stroke-opacity="0.49803922"
+              stroke="#ffc274"/>
+        <path fill="none" stroke-width="1.9548508"
+              d="M 94.897858,-101.385757 C 132.007950,-77.245605 151.462860,14.629768 127.322708,51.739864"
+              class="id_china id_covid-19" stroke-opacity="0.49803922"
+              stroke="#ffa24d"/>
+        <path fill="none" stroke-width="0.40962687"
+              d="M 94.897858,-101.385757 C 134.072632,-67.032219 141.304504,43.260254 106.950958,82.435036"
+              class="id_china id_ebola" stroke-opacity="0.49803922"
+              stroke="#ffa24d"/>
+        <path fill="none" stroke-width="0.6227612"
+              d="M 94.897858,-101.385757 C 127.172180,-36.342041 78.018097,109.635025 12.974379,141.909348"
+              class="id_china id_federal_government" stroke-opacity="0.49803922"
+              stroke="#cfe076"/>
+        <path fill="none" stroke-width="0.3030597"
+              d="M 94.897858,-101.385757 C 58.634827,-77.806030 -31.129324,-96.830978 -54.709053,-133.094009"
+              class="id_china id_health_minister" stroke-opacity="0.49803922"
+              stroke="#9f62b9"/>
+        <path fill="none" stroke-width="0.01"
+              d="M 94.897858,-101.385757 C 55.340088,-62.451015 -62.398689,-63.385548 -101.333435,-102.943321"
+              class="id_china id_health_workers" stroke-opacity="0.49803922"
+              stroke="#9f62b9"/>
+        <path fill="none" stroke-width="0.03664179"
+              d="M 94.897858,-101.385757 C 119.395172,-28.739300 47.171455,116.976349 -25.475002,141.473663"
+              class="id_china id_national_assembly" stroke-opacity="0.49803922"
+              stroke="#cfe076"/>
+        <path fill="none" stroke-width="5.365"
+              d="M 94.897858,-101.385757 C 65.121887,-92.992706 7.868351,-125.067085 -0.524699,-154.843063"
+              class="id_china id_nigeria" stroke-opacity="0.49803922"
+              stroke="#ffc274"/>
+        <path fill="none" stroke-width="0.24977612"
+              d="M 94.897858,-101.385757 C 65.028519,-36.737934 -76.747231,15.429794 -141.395050,-14.439543"
+              class="id_china id_state_government" stroke-opacity="0.49803922"
+              stroke="#cfe076"/>
+        <path fill="none" stroke-width="2.967239"
+              d="M 94.897858,-101.385757 C 82.169815,-100.521103 61.780777,-118.316177 60.916126,-131.044220"
+              class="id_china id_Western_Africa" stroke-opacity="0.49803922"
+              stroke="#ffc274"/>
+        <path fill="none" stroke-width="0.16985075"
+              d="M 127.322708,51.739864 C 129.387390,61.953247 117.164337,80.370354 106.950958,82.435036"
+              class="id_covid-19 id_ebola" stroke-opacity="0.49803922"
+              stroke="#ff8226"/>
+        <path fill="none" stroke-width="2.967239"
+              d="M 127.322708,51.739864 C 122.486938,92.643425 53.877937,146.745117 12.974379,141.909348"
+              class="id_covid-19 id_federal_government"
+              stroke-opacity="0.49803922" stroke="#cfc04f"/>
+        <path fill="none" stroke-width="0.8625373"
+              d="M 127.322708,51.739864 C 53.949574,51.179443 -55.269474,-59.720871 -54.709053,-133.094009"
+              class="id_covid-19 id_health_minister" stroke-opacity="0.49803922"
+              stroke="#9f4292"/>
+        <path fill="none" stroke-width="0.54283583"
+              d="M 127.322708,51.739864 C 54.193130,85.054558 -105.473251,25.332241 -138.787949,-47.797333"
+              class="id_covid-19 id_health_sector" stroke-opacity="0.49803922"
+              stroke="#9f4292"/>
+        <path fill="none" stroke-width="0.96910447"
+              d="M 127.322708,51.739864 C 50.654839,66.534454 -86.538841,-26.275455 -101.333435,-102.943321"
+              class="id_covid-19 id_health_workers" stroke-opacity="0.49803922"
+              stroke="#9f4292"/>
+        <path fill="none" stroke-width="0.063283585"
+              d="M 127.322708,51.739864 C 121.787346,43.479092 125.875465,22.784895 134.136230,17.249533"
+              class="id_covid-19 id_kaduna" stroke-opacity="0.49803922"
+              stroke="#ffa24d"/>
+        <path fill="none" stroke-width="0.54283583"
+              d="M 127.322708,51.739864 C 106.567017,104.517456 -3.732924,152.550323 -56.510521,131.794632"
+              class="id_covid-19 id_medical_association"
+              stroke-opacity="0.49803922" stroke="#cfc04f"/>
+        <path fill="none" stroke-width="1.2621642"
+              d="M 127.322708,51.739864 C 114.709923,100.246170 23.031303,154.086441 -25.475002,141.473663"
+              class="id_covid-19 id_national_assembly"
+              stroke-opacity="0.49803922" stroke="#cfc04f"/>
+        <path fill="none" stroke-width="12.877985"
+              d="M 127.322708,51.739864 C 60.436642,35.992760 -16.271803,-87.956993 -0.524699,-154.843063"
+              class="id_covid-19 id_nigeria" stroke-opacity="0.49803922"
+              stroke="#ffa24d"/>
+        <path fill="none" stroke-width="0.2764179"
+              d="M 127.322708,51.739864 C 66.678955,97.971893 -93.634720,76.354301 -139.866745,15.710548"
+              class="id_covid-19 id_senate_committee"
+              stroke-opacity="0.49803922" stroke="#cfc04f"/>
+        <path fill="none" stroke-width="0.80925375"
+              d="M 127.322708,51.739864 C 60.343266,92.247543 -100.887375,52.539894 -141.395050,-14.439543"
+              class="id_covid-19 id_state_government"
+              stroke-opacity="0.49803922" stroke="#cfc04f"/>
+        <path fill="none" stroke-width="2.4610448"
+              d="M 127.322708,51.739864 C 77.484573,28.464361 37.640621,-81.206078 60.916126,-131.044220"
+              class="id_covid-19 id_Western_Africa" stroke-opacity="0.49803922"
+              stroke="#ffa24d"/>
+        <path fill="none" stroke-width="0.3829851"
+              d="M -83.460854,114.435951 C -58.679127,100.643585 -0.817989,117.127625 12.974379,141.909348"
+              class="id_democratic_party id_federal_government"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="0.46291044"
+              d="M -83.460854,114.435951 C -66.456146,108.246323 -31.664631,124.468948 -25.475002,141.473663"
+              class="id_democratic_party id_national_assembly"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="4.5657463"
+              d="M -83.460854,114.435951 C -120.729424,43.992912 -70.967735,-117.574493 -0.524699,-154.843063"
+              class="id_democratic_party id_nigeria" stroke-opacity="0.49803922"
+              stroke="#cfe076"/>
+        <path fill="none" stroke-width="0.83589554"
+              d="M -83.460854,114.435951 C -107.754539,110.732315 -138.639618,68.736313 -134.935974,44.442627"
+              class="id_democratic_party id_progressives_congress"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="0.063283585"
+              d="M -83.460854,114.435951 C -120.822784,100.247696 -155.583313,22.922394 -141.395050,-14.439543"
+              class="id_democratic_party id_state_government"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="0.14320895"
+              d="M -83.460854,114.435951 C -103.681488,36.464523 -17.055298,-110.823586 60.916126,-131.044220"
+              class="id_democratic_party id_Western_Africa"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="0.14320895"
+              d="M 106.950958,82.435036 C 100.050499,113.125214 43.664558,148.809799 12.974379,141.909348"
+              class="id_ebola id_federal_government" stroke-opacity="0.49803922"
+              stroke="#cfc04f"/>
+        <path fill="none" stroke-width="0.83589554"
+              d="M 106.950958,82.435036 C 31.513145,71.661224 -65.482864,-57.656197 -54.709053,-133.094009"
+              class="id_ebola id_health_minister" stroke-opacity="0.49803922"
+              stroke="#9f4292"/>
+        <path fill="none" stroke-width="0.01"
+              d="M 106.950958,82.435036 C 31.756704,105.536346 -115.686638,27.396921 -138.787949,-47.797333"
+              class="id_ebola id_health_sector" stroke-opacity="0.49803922"
+              stroke="#9f4292"/>
+        <path fill="none" stroke-width="1.4752985"
+              d="M 106.950958,82.435036 C 28.218410,87.016243 -96.752228,-24.210766 -101.333435,-102.943321"
+              class="id_ebola id_health_workers" stroke-opacity="0.49803922"
+              stroke="#9f4292"/>
+        <path fill="none" stroke-width="0.16985075"
+              d="M 106.950958,82.435036 C 59.081623,125.451462 -77.247009,118.172104 -120.263443,70.302765"
+              class="id_ebola id_news_organizations" stroke-opacity="0.49803922"
+              stroke="#cfc04f"/>
+        <path fill="none" stroke-width="6.270821"
+              d="M 106.950958,82.435036 C 38.000202,56.474545 -26.485189,-85.892303 -0.524699,-154.843063"
+              class="id_ebola id_nigeria" stroke-opacity="0.49803922"
+              stroke="#ffa24d"/>
+        <path fill="none" stroke-width="11.172911"
+              d="M 106.950958,82.435036 C 55.048134,48.946148 27.427238,-79.141396 60.916126,-131.044220"
+              class="id_ebola id_Western_Africa" stroke-opacity="0.49803922"
+              stroke="#ffa24d"/>
+        <path fill="none" stroke-width="0.80925375"
+              d="M 12.974379,141.909348 C -55.562981,100.445366 -96.173035,-64.556648 -54.709053,-133.094009"
+              class="id_federal_government id_health_minister"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="1.6085075"
+              d="M 12.974379,141.909348 C -55.319427,134.320480 -146.376831,20.496471 -138.787949,-47.797333"
+              class="id_federal_government id_health_sector"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="1.6085075"
+              d="M 12.974379,141.909348 C -58.857719,115.800377 -127.442406,-31.111221 -101.333435,-102.943321"
+              class="id_federal_government id_health_workers"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="0.5961194"
+              d="M 12.974379,141.909348 C 12.274784,92.745018 84.971893,17.949125 134.136230,17.249533"
+              class="id_federal_government id_kaduna"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="0.43626866"
+              d="M 12.974379,141.909348 C 21.580673,119.414597 68.232239,98.581917 90.726990,107.188210"
+              class="id_federal_government id_lassa_fever"
+              stroke-opacity="0.49803922" stroke="#cfc04f"/>
+        <path fill="none" stroke-width="1.9814925"
+              d="M 12.974379,141.909348 C -2.945545,153.783386 -44.636482,147.714569 -56.510521,131.794632"
+              class="id_federal_government id_medical_association"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="2.6475372"
+              d="M 12.974379,141.909348 C 5.197366,149.512085 -17.872263,149.250687 -25.475002,141.473663"
+              class="id_federal_government id_national_assembly"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="0.14320895"
+              d="M 12.974379,141.909348 C -19.616919,155.254089 -88.520981,126.384262 -101.865730,93.792969"
+              class="id_federal_government id_national_hospital"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="0.46291044"
+              d="M 12.974379,141.909348 C -27.994503,154.235596 -107.937195,111.271652 -120.263443,70.302765"
+              class="id_federal_government id_news_organizations"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="21.696419"
+              d="M 12.974379,141.909348 C -49.075924,85.258675 -57.175369,-92.792763 -0.524699,-154.843063"
+              class="id_federal_government id_nigeria"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="0.48955223"
+              d="M 12.974379,141.909348 C -36.101040,151.998077 -124.847244,93.518051 -134.935974,44.442627"
+              class="id_federal_government id_progressives_congress"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="0.72932833"
+              d="M 12.974379,141.909348 C -42.833611,147.237808 -134.538284,71.518539 -139.866745,15.710548"
+              class="id_federal_government id_senate_committee"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="1.5019403"
+              d="M 12.974379,141.909348 C -49.169289,141.513458 -141.790939,47.704124 -141.395050,-14.439543"
+              class="id_federal_government id_state_government"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="1.8216418"
+              d="M 12.974379,141.909348 C -32.027985,77.730286 -3.262939,-86.041855 60.916126,-131.044220"
+              class="id_federal_government id_Western_Africa"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="1.7150747"
+              d="M -138.787949,-47.797333 C -142.326233,-66.317436 -119.853539,-99.405029 -101.333435,-102.943321"
+              class="id_health_sector id_health_workers"
+              stroke-opacity="0.49803922" stroke="#4003ff"/>
+        <path fill="none" stroke-width="1.6085075"
+              d="M -138.787949,-47.797333 C -86.414063,-28.334423 -37.047607,79.420746 -56.510521,131.794632"
+              class="id_health_sector id_medical_association"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="0.72932833"
+              d="M -138.787949,-47.797333 C -78.271164,-32.605721 -10.283390,80.956871 -25.475002,141.473663"
+              class="id_health_sector id_national_assembly"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="0.35634327"
+              d="M -138.787949,-47.797333 C -111.463036,-27.882214 -100.348328,42.977844 -120.263443,70.302765"
+              class="id_health_sector id_news_organizations"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="12.2652235"
+              d="M -138.787949,-47.797333 C -132.544449,-96.859131 -49.586494,-161.086563 -0.524699,-154.843063"
+              class="id_health_sector id_nigeria" stroke-opacity="0.49803922"
+              stroke="#9f62b9"/>
+        <path fill="none" stroke-width="0.19649254"
+              d="M -138.787949,-47.797333 C -126.302132,-34.879997 -126.949409,3.224730 -139.866745,15.710548"
+              class="id_health_sector id_senate_committee"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="0.649403"
+              d="M -138.787949,-47.797333 C -132.637817,-40.604355 -134.202072,-20.589680 -141.395050,-14.439543"
+              class="id_health_sector id_state_government"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="3.073806"
+              d="M -138.787949,-47.797333 C -115.496513,-104.387527 4.325933,-154.335663 60.916126,-131.044220"
+              class="id_health_sector id_Western_Africa"
+              stroke-opacity="0.49803922" stroke="#9f62b9"/>
+        <path fill="none" stroke-width="0.6227612"
+              d="M -101.333435,-102.943321 C -45.421261,-64.960312 -18.527515,75.882462 -56.510521,131.794632"
+              class="id_health_workers id_medical_association"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="0.08992537"
+              d="M -101.333435,-102.943321 C -37.278351,-69.231606 8.236710,77.418579 -25.475002,141.473663"
+              class="id_health_workers id_national_assembly"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="0.16985075"
+              d="M -101.333435,-102.943321 C -70.470215,-64.508095 -81.828217,39.439545 -120.263443,70.302765"
+              class="id_health_workers id_news_organizations"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="7.44306"
+              d="M -101.333435,-102.943321 C -91.551636,-133.485016 -31.066395,-164.624863 -0.524699,-154.843063"
+              class="id_health_workers id_nigeria" stroke-opacity="0.49803922"
+              stroke="#9f62b9"/>
+        <path fill="none" stroke-width="0.03664179"
+              d="M -101.333435,-102.943321 C -91.645004,-77.230247 -115.681961,-24.127974 -141.395050,-14.439543"
+              class="id_health_workers id_state_government"
+              stroke-opacity="0.49803922" stroke="#6f81bb"/>
+        <path fill="none" stroke-width="5.764627"
+              d="M -101.333435,-102.943321 C -74.503708,-141.013412 22.846037,-157.873947 60.916126,-131.044220"
+              class="id_health_workers id_Western_Africa"
+              stroke-opacity="0.49803922" stroke="#9f62b9"/>
+        <path fill="none" stroke-width="0.40962687"
+              d="M 134.136230,17.249533 C 127.058807,74.016609 31.292070,148.551086 -25.475002,141.473663"
+              class="id_kaduna id_national_assembly" stroke-opacity="0.49803922"
+              stroke="#cfe076"/>
+        <path fill="none" stroke-width="4.61903"
+              d="M 134.136230,17.249533 C 72.785522,9.763203 -8.011028,-93.492355 -0.524699,-154.843063"
+              class="id_kaduna id_nigeria" stroke-opacity="0.49803922"
+              stroke="#ffc274"/>
+        <path fill="none" stroke-width="0.03664179"
+              d="M 134.136230,17.249533 C 85.760414,76.502594 -75.682915,92.818451 -134.935974,44.442627"
+              class="id_kaduna id_progressives_congress"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="0.063283585"
+              d="M 134.136230,17.249533 C 72.692162,66.017975 -92.626610,47.004528 -141.395050,-14.439543"
+              class="id_kaduna id_state_government" stroke-opacity="0.49803922"
+              stroke="#cfe076"/>
+        <path fill="none" stroke-width="0.22313432"
+              d="M 134.136230,17.249533 C 89.833466,2.234806 45.901402,-86.741447 60.916126,-131.044220"
+              class="id_kaduna id_Western_Africa" stroke-opacity="0.49803922"
+              stroke="#ffc274"/>
+        <path fill="none" stroke-width="1.6617911"
+              d="M 90.726990,107.188210 C 20.070396,73.032288 -34.680618,-84.186470 -0.524699,-154.843063"
+              class="id_lassa_fever id_nigeria" stroke-opacity="0.49803922"
+              stroke="#ffa24d"/>
+        <path fill="none" stroke-width="0.40962687"
+              d="M 90.726990,107.188210 C 37.118332,65.503899 19.231812,-77.435562 60.916126,-131.044220"
+              class="id_lassa_fever id_Western_Africa"
+              stroke-opacity="0.49803922" stroke="#ffa24d"/>
+        <path fill="none" stroke-width="0.32970148"
+              d="M -56.510521,131.794632 C -48.367611,127.523331 -29.746300,133.330750 -25.475002,141.473663"
+              class="id_medical_association id_national_assembly"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="0.08992537"
+              d="M -56.510521,131.794632 C -81.559479,132.246841 -119.811234,95.351723 -120.263443,70.302765"
+              class="id_medical_association id_news_organizations"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="9.734254"
+              d="M -56.510521,131.794632 C -102.640900,63.269920 -69.049408,-108.712685 -0.524699,-154.843063"
+              class="id_medical_association id_nigeria"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="0.78261197"
+              d="M -56.510521,131.794632 C -102.734261,119.524704 -153.664978,31.784199 -141.395050,-14.439543"
+              class="id_medical_association id_state_government"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="0.063283585"
+              d="M -56.510521,131.794632 C -85.592964,55.741531 -15.136978,-101.961777 60.916126,-131.044220"
+              class="id_medical_association id_Western_Africa"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="0.116567165"
+              d="M -25.475002,141.473663 C -50.289291,147.215683 -96.123726,118.607254 -101.865730,93.792969"
+              class="id_national_assembly id_national_hospital"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="12.185299"
+              d="M -25.475002,141.473663 C -79.748283,77.220261 -64.778107,-100.569778 -0.524699,-154.843063"
+              class="id_national_assembly id_nigeria"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="0.43626866"
+              d="M -25.475002,141.473663 C -66.773399,143.959656 -132.449982,85.741028 -134.935974,44.442627"
+              class="id_national_assembly id_progressives_congress"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="0.96910447"
+              d="M -25.475002,141.473663 C -73.505981,139.199387 -142.141022,63.741524 -139.866745,15.710548"
+              class="id_national_assembly id_senate_committee"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="0.3030597"
+              d="M -25.475002,141.473663 C -79.841652,133.475037 -149.393692,39.927109 -141.395050,-14.439543"
+              class="id_national_assembly id_state_government"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="0.6227612"
+              d="M -25.475002,141.473663 C -62.700356,69.691864 -10.865677,-93.818863 60.916126,-131.044220"
+              class="id_national_assembly id_Western_Africa"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="2.5942538"
+              d="M -101.865730,93.792969 C -131.324738,23.797550 -70.520119,-125.384064 -0.524699,-154.843063"
+              class="id_national_hospital id_nigeria"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="0.35634327"
+              d="M -101.865730,93.792969 C -114.276794,16.269161 -16.607681,-118.633148 60.916126,-131.044220"
+              class="id_national_hospital id_Western_Africa"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="4.112836"
+              d="M -120.263443,70.302765 C -141.344849,1.325848 -69.501617,-133.761642 -0.524699,-154.843063"
+              class="id_news_organizations id_nigeria"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="0.8891791"
+              d="M -120.263443,70.302765 C -124.296921,-6.202549 -15.589188,-127.010742 60.916126,-131.044220"
+              class="id_news_organizations id_Western_Africa"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="4.725597"
+              d="M -0.524699,-154.843063 C 12.450188,-88.103668 -68.196579,31.467741 -134.935974,44.442627"
+              class="id_nigeria id_progressives_congress"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="5.2850747"
+              d="M -0.524699,-154.843063 C 5.717619,-92.863930 -77.887611,9.468231 -139.866745,15.710548"
+              class="id_nigeria id_senate_committee" stroke-opacity="0.49803922"
+              stroke="#cfe076"/>
+        <path fill="none" stroke-width="0.24977612"
+              d="M -0.524699,-154.843063 C 69.464867,-112.949234 111.608475,54.875847 69.714645,124.865410"
+              class="id_nigeria id_sexual_violence" stroke-opacity="0.49803922"
+              stroke="#ffa24d"/>
+        <path fill="none" stroke-width="6.670448"
+              d="M -0.524699,-154.843063 C -0.618061,-98.588287 -85.140274,-14.346180 -141.395050,-14.439543"
+              class="id_nigeria id_state_government" stroke-opacity="0.49803922"
+              stroke="#cfe076"/>
+        <path fill="none" stroke-width="25.0"
+              d="M -0.524699,-154.843063 C 16.523235,-162.371460 53.387730,-148.092148 60.916126,-131.044220"
+              class="id_nigeria id_Western_Africa" stroke-opacity="0.49803922"
+              stroke="#ffc274"/>
+        <path fill="none" stroke-width="0.16985075"
+              d="M -134.935974,44.442627 C -148.004211,33.958008 -151.879669,-1.371294 -141.395050,-14.439543"
+              class="id_progressives_congress id_state_government"
+              stroke-opacity="0.49803922" stroke="#9fff78"/>
+        <path fill="none" stroke-width="0.063283585"
+              d="M 69.714645,124.865410 C 16.773014,75.443192 11.493904,-78.102585 60.916126,-131.044220"
+              class="id_sexual_violence id_Western_Africa"
+              stroke-opacity="0.49803922" stroke="#ffa24d"/>
+        <path fill="none" stroke-width="0.9158209"
+              d="M 60.916126,-131.044220 C 37.381134,-108.329140 -31.993975,-109.559013 -54.709053,-133.094009"
+              class="id_Western_Africa id_health_minister"
+              stroke-opacity="0.49803922" stroke="#9f62b9"/>
+        <path fill="none" stroke-width="0.22313432"
+              d="M 60.916126,-131.044220 C 50.110504,-61.536694 -70.359222,26.516171 -139.866745,15.710548"
+              class="id_Western_Africa id_senate_committee"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="0.46291044"
+              d="M 60.916126,-131.044220 C 43.774826,-67.261047 -77.611877,2.701759 -141.395050,-14.439543"
+              class="id_Western_Africa id_state_government"
+              stroke-opacity="0.49803922" stroke="#cfe076"/>
+        <path fill="none" stroke-width="0.38964552"
+              d="M 127.322708,51.739864 C 156.039001,23.023563 156.039001,80.456161 127.322708,51.739864"
+              class="id_covid-19" stroke-opacity="0.49803922" stroke="#ff8226"/>
+        <path fill="none" stroke-width="0.38964552"
+              d="M 12.974379,141.909348 C 18.842228,134.389053 38.924438,131.910385 46.444729,137.778244"
+              class="id_federal_government id_labour"
+              stroke-opacity="0.49803922" stroke="#cfc04f"/>
+        <path fill="none" stroke-width="0.049962685"
+              d="M -138.787949,-47.797333 C -64.626297,-47.728752 46.513309,63.616596 46.444729,137.778244"
+              class="id_health_sector id_labour" stroke-opacity="0.49803922"
+              stroke="#9f4292"/>
+        <path fill="none" stroke-width="0.049962685"
+              d="M -101.333435,-102.943321 C -23.633492,-84.354645 65.033409,60.078300 46.444729,137.778244"
+              class="id_health_workers id_labour" stroke-opacity="0.49803922"
+              stroke="#9f4292"/>
+        <path fill="none" stroke-width="0.16985075"
+              d="M 46.444729,137.778244 C 24.656958,157.172577 -37.116196,153.582397 -56.510521,131.794632"
+              class="id_labour id_medical_association"
+              stroke-opacity="0.49803922" stroke="#cfc04f"/>
+        <path fill="none" stroke-width="2.0680783"
+              d="M 46.444729,137.778244 C -21.473423,88.647873 -49.655079,-86.924911 -0.524699,-154.843063"
+              class="id_labour id_nigeria" stroke-opacity="0.49803922"
+              stroke="#ffa24d"/>
+        <path fill="none" stroke-width="22.648863"
+              d="M -0.524699,-154.843063 C 79.475304,-234.843063 79.475304,-74.843063 -0.524699,-154.843063"
+              class="id_nigeria" stroke-opacity="0.49803922" stroke="#ffc274"/>
+        <path fill="none" stroke-width="11.219534"
+              d="M 60.916126,-131.044220 C 104.632431,-174.760529 104.632431,-87.327919 60.916126,-131.044220"
+              class="id_Western_Africa" stroke-opacity="0.49803922"
+              stroke="#ffc274"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="0.8" fill="#ffc274" r="11.154085" cx="135.67436"
+                class="id_america" cy="-15.425483" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#ffc274" r="11.667358" cx="112.99039"
+                class="id_boko_haram" cy="-74.15202" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#4003ff" r="13.045417" cx="-126.70494"
+                class="id_buhari" cy="-79.18841" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#4003ff" r="11.536707" cx="-77.36198"
+                class="id_bukola_saraki" cy="-120.740036" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#ffc274" r="10.50083" cx="129.7711"
+                class="id_chibok" cy="-45.964214" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#ffc274" r="12.183742" cx="94.89786"
+                class="id_china" cy="-101.38576" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#ff8226" r="14.3581505" cx="127.32271"
+                class="id_covid-19" cy="51.739864" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#9fff78" r="11.602033" cx="-83.46085"
+                class="id_democratic_party" cy="114.43595" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#ff8226" r="13.070303" cx="106.95096"
+                class="id_ebola" cy="82.435036" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#9fff78" r="16.507673" cx="12.974379"
+                class="id_federal_government" cy="141.90935" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#4003ff" r="10.777685" cx="-54.709053"
+                class="id_health_minister" cy="-133.09401" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#4003ff" r="13.636457" cx="-138.78795"
+                class="id_health_sector" cy="-47.797333" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#4003ff" r="13.160515" cx="-101.333435"
+                class="id_health_workers" cy="-102.94332" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#ffc274" r="11.567814" cx="134.13623"
+                class="id_kaduna" cy="17.249533" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#ff8226" r="10.675031" cx="90.72699"
+                class="id_lassa_fever" cy="107.18821" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#9fff78" r="12.756118" cx="-56.51052"
+                class="id_medical_association" cy="131.79463" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#9fff78" r="13.726669" cx="-25.475002"
+                class="id_national_assembly" cy="141.47366" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#9fff78" r="10.982995" cx="-101.86573"
+                class="id_national_hospital" cy="93.79297" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#9fff78" r="11.427831" cx="-120.26344"
+                class="id_news_organizations" cy="70.302765" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#ffc274" r="40.0" cx="-0.5246991"
+                class="id_nigeria" cy="-154.84306" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#9fff78" r="11.71713" cx="-134.93597"
+                class="id_progressives_congress" cy="44.442627" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#9fff78" r="11.770012" cx="-139.86674"
+                class="id_senate_committee" cy="15.710548" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#ff8226" r="10.236417" cx="69.714645"
+                class="id_sexual_violence" cy="124.86541" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#9fff78" r="12.367275" cx="-141.39505"
+                class="id_state_government" cy="-14.439543" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#ffc274" r="21.85815" cx="60.916126"
+                class="id_Western_Africa" cy="-131.04422" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+        <circle fill-opacity="0.8" fill="#ff8226" r="10.0" cx="46.44473"
+                class="id_labour" cy="137.77824" stroke="#000000"
+                stroke-opacity="0.8" stroke-width="0.01"/>
+    </g>
+    <g id="node-labels-outline">
+        <text stroke-linecap="round" font-size="7" x="135.67436" y="-14.152289"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_america" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.21875px">
+            America
+        </text>
+        <text stroke-linecap="round" font-size="7" x="112.99039" y="-72.87883"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_boko_haram" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.21875px">
+            Boko Haram
+        </text>
+        <text stroke-linecap="round" font-size="8" x="-126.70494" y="-77.73333"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_buhari" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.25px">
+            Buhari
+        </text>
+        <text stroke-linecap="round" font-size="7" x="-77.36198" y="-119.44406"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bukola_saraki" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.21875px">
+            Bukola Saraki
+        </text>
+        <text stroke-linecap="round" font-size="6" x="129.7711" y="-44.853374"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_chibok" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.1875px">
+            Chibok
+        </text>
+        <text stroke-linecap="round" font-size="7" x="94.89786" y="-100.08978"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_china" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.21875px">
+            China
+        </text>
+        <text stroke-linecap="round" font-size="9" x="127.32271" y="53.406124"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_covid-19" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.28125px">
+            Covid-19
+        </text>
+        <text stroke-linecap="round" font-size="7" x="-83.46085" y="116.057205"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_democratic_party" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.21875px">
+            Democratic Party
+        </text>
+        <text stroke-linecap="round" font-size="8" x="106.95096" y="83.890114"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ebola" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.25px">
+            Ebola
+        </text>
+        <text stroke-linecap="round" font-size="10" x="12.974379" y="143.76074"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_federal_government" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.3125px">
+            Federal Government
+        </text>
+        <text stroke-linecap="round" font-size="6" x="-54.709053" y="-132.0027"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_health_minister" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.1875px">
+            Health Minister
+        </text>
+        <text stroke-linecap="round" font-size="8" x="-138.78795" y="-46.316216"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_health_sector" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.25px">
+            Health Sector
+        </text>
+        <text stroke-linecap="round" font-size="8" x="-101.333435"
+              y="-101.48824" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_health_workers" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.25px">
+            Health Workers
+        </text>
+        <text stroke-linecap="round" font-size="7" x="134.13623" y="18.522726"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_kaduna" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.21875px">
+            Kaduna
+        </text>
+        <text stroke-linecap="round" font-size="6" x="90.72699" y="108.27952"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_lassa_fever" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.1875px">
+            Lassa Fever
+        </text>
+        <text stroke-linecap="round" font-size="8" x="-56.51052" y="133.24971"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_medical_association"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="0.25px">
+            Medical Association
+        </text>
+        <text stroke-linecap="round" font-size="8" x="-25.475002" y="143.32652"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_national_assembly" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.25px">
+            National Assembly
+        </text>
+        <text stroke-linecap="round" font-size="7" x="-101.86573" y="95.393715"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_national_hospital" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.21875px">
+            National Hospital
+        </text>
+        <text stroke-linecap="round" font-size="7" x="-120.26344" y="71.946236"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_news_organizations" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.21875px">
+            News Organizations
+        </text>
+        <text stroke-linecap="round" font-size="24" x="-0.5246991"
+              y="-149.28447" fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_nigeria" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.75px">
+            Nigeria
+        </text>
+        <text stroke-linecap="round" font-size="7" x="-134.93597" y="46.085533"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_progressives_congress"
+              stroke="#ffffff" stroke-opacity="0.8" stroke-width="0.21875px">
+            Progressives Congress
+        </text>
+        <text stroke-linecap="round" font-size="7" x="-139.86674" y="17.006529"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_senate_committee" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.21875px">
+            Senate Committee
+        </text>
+        <text stroke-linecap="round" font-size="6" x="69.714645" y="125.97625"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sexual_violence" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.1875px">
+            Sexual Violence
+        </text>
+        <text stroke-linecap="round" font-size="7" x="-141.39505" y="-13.143563"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_state_government" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.21875px">
+            State Government
+        </text>
+        <text stroke-linecap="round" font-size="13" x="60.916126" y="-128.63951"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Western_Africa" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.40625px">
+            Western Africa
+        </text>
+        <text stroke-linecap="round" font-size="6" x="46.44473" y="138.86955"
+              fill="#000000" stroke-linejoin="round"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_labour" stroke="#ffffff"
+              stroke-opacity="0.8" stroke-width="0.1875px">
+            Labour
+        </text>
+    </g>
+    <g id="node-labels">
+        <text font-size="7" x="135.67436" y="-14.152289" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_america">
+            America
+        </text>
+        <text font-size="7" x="112.99039" y="-72.87883" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_boko_haram">
+            Boko Haram
+        </text>
+        <text font-size="8" x="-126.70494" y="-77.73333" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_buhari">
+            Buhari
+        </text>
+        <text font-size="7" x="-77.36198" y="-119.44406" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_bukola_saraki">
+            Bukola Saraki
+        </text>
+        <text font-size="6" x="129.7711" y="-44.853374" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_chibok">
+            Chibok
+        </text>
+        <text font-size="7" x="94.89786" y="-100.08978" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_china">
+            China
+        </text>
+        <text font-size="9" x="127.32271" y="53.406124" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_covid-19">
+            Covid-19
+        </text>
+        <text font-size="7" x="-83.46085" y="116.057205" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_democratic_party">
+            Democratic Party
+        </text>
+        <text font-size="8" x="106.95096" y="83.890114" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_ebola">
+            Ebola
+        </text>
+        <text font-size="10" x="12.974379" y="143.76074" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_federal_government">
+            Federal Government
+        </text>
+        <text font-size="6" x="-54.709053" y="-132.0027" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_health_minister">
+            Health Minister
+        </text>
+        <text font-size="8" x="-138.78795" y="-46.316216" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_health_sector">
+            Health Sector
+        </text>
+        <text font-size="8" x="-101.333435" y="-101.48824" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_health_workers">
+            Health Workers
+        </text>
+        <text font-size="7" x="134.13623" y="18.522726" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_kaduna">
+            Kaduna
+        </text>
+        <text font-size="6" x="90.72699" y="108.27952" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_lassa_fever">
+            Lassa Fever
+        </text>
+        <text font-size="8" x="-56.51052" y="133.24971" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_medical_association">
+            Medical Association
+        </text>
+        <text font-size="8" x="-25.475002" y="143.32652" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_national_assembly">
+            National Assembly
+        </text>
+        <text font-size="7" x="-101.86573" y="95.393715" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_national_hospital">
+            National Hospital
+        </text>
+        <text font-size="7" x="-120.26344" y="71.946236" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_news_organizations">
+            News Organizations
+        </text>
+        <text font-size="24" x="-0.5246991" y="-149.28447" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_nigeria">
+            Nigeria
+        </text>
+        <text font-size="7" x="-134.93597" y="46.085533" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_progressives_congress">
+            Progressives Congress
+        </text>
+        <text font-size="7" x="-139.86674" y="17.006529" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_senate_committee">
+            Senate Committee
+        </text>
+        <text font-size="6" x="69.714645" y="125.97625" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_sexual_violence">
+            Sexual Violence
+        </text>
+        <text font-size="7" x="-141.39505" y="-13.143563" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_state_government">
+            State Government
+        </text>
+        <text font-size="13" x="60.916126" y="-128.63951" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Western_Africa">
+            Western Africa
+        </text>
+        <text font-size="6" x="46.44473" y="138.86955" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_labour">
+            Labour
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,301 @@
+Source,Target,Type,Id,Label,timeset,Weight
+supreme court,uttar pradesh,Undirected,1087,,,33
+state government,uttar pradesh,Undirected,1124,,,45
+state government,supreme court,Undirected,1082,,,32
+republican,supreme court,Undirected,1134,,,52
+republican,gandhi family,Undirected,917,,,13
+republican,state government,Undirected,994,,,12
+republican,Manmohan Singh,Undirected,940,,,5
+republican,uttar pradesh,Undirected,892,,,1
+rajya sabha,gandhi family,Undirected,1205,,,303
+rajya sabha,uttar pradesh,Undirected,1159,,,68
+rajya sabha,Manmohan Singh,Undirected,1127,,,46
+rajya sabha,supreme court,Undirected,1123,,,45
+rajya sabha,state government,Undirected,1086,,,33
+rajya sabha,donald trump,Undirected,993,,,28
+rajya sabha,republican,Undirected,891,,,1
+public health,republican,Undirected,1085,,,33
+public health,state government,Undirected,1007,,,14
+public health,supreme court,Undirected,992,,,12
+public health,uttar pradesh,Undirected,975,,,10
+public health,Manmohan Singh,Undirected,952,,,7
+prime minister,rajya sabha,Undirected,1115,,,42
+prime minister,uttar pradesh,Undirected,1081,,,32
+prime minister,Manmohan Singh,Undirected,1051,,,23
+prime minister,supreme court,Undirected,1042,,,21
+prime minister,state government,Undirected,991,,,12
+prime minister,republican,Undirected,967,,,9
+prime minister,public health,Undirected,959,,,8
+obamacare,republican,Undirected,1223,,,132
+obamacare,public health,Undirected,1050,,,23
+obamacare,supreme court,Undirected,1034,,,19
+obamacare,prime minister,Undirected,938,,,5
+obamacare,state government,Undirected,930,,,4
+obamacare,Manmohan Singh,Undirected,906,,,2
+narendra modi,rajya sabha,Undirected,1234,,,142
+narendra modi,uttar pradesh,Undirected,1217,,,124
+narendra modi,prime minister,Undirected,1207,,,108
+narendra modi,donald trump,Undirected,1074,,,66
+narendra modi,Manmohan Singh,Undirected,1145,,,62
+narendra modi,supreme court,Undirected,1140,,,58
+narendra modi,state government,Undirected,1133,,,52
+narendra modi,public health,Undirected,1040,,,21
+narendra modi,obamacare,Undirected,958,,,8
+narendra modi,republican,Undirected,951,,,7
+muslim,narendra modi,Undirected,1142,,,59
+muslim,rajya sabha,Undirected,1112,,,40
+muslim,supreme court,Undirected,1069,,,28
+muslim,uttar pradesh,Undirected,1070,,,28
+muslim,prime minister,Undirected,1027,,,18
+muslim,Manmohan Singh,Undirected,1017,,,16
+muslim,state government,Undirected,1012,,,15
+muslim,republican,Undirected,972,,,10
+muslim,obamacare,Undirected,965,,,9
+muslim,public health,Undirected,957,,,8
+medicaid,republican,Undirected,1204,,,103
+medicaid,obamacare,Undirected,1196,,,95
+medicaid,supreme court,Undirected,1039,,,21
+medicaid,public health,Undirected,1033,,,19
+medicaid,state government,Undirected,929,,,4
+medicaid,prime minister,Undirected,916,,,3
+medicaid,narendra modi,Undirected,884,,,1
+Manmohan Singh,gandhi family,Undirected,1104,,,122
+Manmohan Singh,uttar pradesh,Undirected,1113,,,41
+Manmohan Singh,state government,Undirected,1061,,,25
+Manmohan Singh,supreme court,Undirected,1036,,,20
+Manmohan Singh,donald trump,Undirected,915,,,7
+joe biden,republican,Undirected,1172,,,77
+joe biden,supreme court,Undirected,1114,,,42
+joe biden,medicaid,Undirected,1108,,,39
+joe biden,public health,Undirected,1103,,,37
+joe biden,obamacare,Undirected,1097,,,35
+joe biden,health minister,Undirected,1005,,,31
+joe biden,prime minister,Undirected,1032,,,19
+joe biden,narendra modi,Undirected,950,,,7
+joe biden,gandhi family,Undirected,943,,,6
+joe biden,state government,Undirected,935,,,5
+joe biden,ghulam nabi azad,Undirected,882,,,3
+joe biden,lok sabha,Undirected,913,,,3
+joe biden,muslim,Undirected,914,,,3
+joe biden,rajya sabha,Undirected,902,,,2
+joe biden,uttar pradesh,Undirected,903,,,2
+joe biden,Manmohan Singh,Undirected,883,,,1
+india,narendra modi,Undirected,1288,,,540
+india,lok sabha,Undirected,1277,,,353
+india,rajya sabha,Undirected,1276,,,352
+india,uttar pradesh,Undirected,1266,,,239
+india,state government,Undirected,1256,,,187
+india,prime minister,Undirected,1250,,,176
+india,supreme court,Undirected,1251,,,176
+india,joe biden,Undirected,1153,,,147
+india,muslim,Undirected,1232,,,138
+india,Manmohan Singh,Undirected,1228,,,136
+india,public health,Undirected,1218,,,126
+india,republican,Undirected,1167,,,73
+india,obamacare,Undirected,1151,,,65
+india,medicaid,Undirected,1045,,,22
+hindu,india,Undirected,1261,,,222
+hindu,narendra modi,Undirected,1185,,,86
+hindu,muslim,Undirected,1132,,,52
+hindu,rajya sabha,Undirected,1111,,,40
+hindu,lok sabha,Undirected,1106,,,38
+hindu,uttar pradesh,Undirected,1107,,,38
+hindu,state government,Undirected,1078,,,31
+hindu,supreme court,Undirected,1060,,,25
+hindu,Manmohan Singh,Undirected,1048,,,23
+hindu,prime minister,Undirected,1049,,,23
+hindu,public health,Undirected,989,,,12
+hindu,obamacare,Undirected,955,,,8
+hindu,republican,Undirected,948,,,7
+hindu,joe biden,Undirected,901,,,6
+hindu,medicaid,Undirected,912,,,3
+health minister,india,Undirected,1283,,,410
+health minister,narendra modi,Undirected,1191,,,91
+health minister,state government,Undirected,1161,,,69
+health minister,uttar pradesh,Undirected,1129,,,47
+health minister,lok sabha,Undirected,1126,,,46
+health minister,public health,Undirected,1110,,,40
+health minister,prime minister,Undirected,1095,,,35
+health minister,rajya sabha,Undirected,1096,,,35
+health minister,hindu,Undirected,1089,,,34
+health minister,supreme court,Undirected,1084,,,33
+health minister,Manmohan Singh,Undirected,1066,,,27
+health minister,muslim,Undirected,964,,,9
+health minister,republican,Undirected,954,,,8
+health minister,obamacare,Undirected,911,,,3
+health minister,medicaid,Undirected,878,,,1
+ghulam nabi azad,india,Undirected,1289,,,544
+ghulam nabi azad,rajya sabha,Undirected,1271,,,280
+ghulam nabi azad,narendra modi,Undirected,1265,,,238
+ghulam nabi azad,lok sabha,Undirected,1260,,,215
+ghulam nabi azad,uttar pradesh,Undirected,1215,,,119
+ghulam nabi azad,hindu,Undirected,1175,,,79
+ghulam nabi azad,muslim,Undirected,1171,,,77
+ghulam nabi azad,Manmohan Singh,Undirected,1164,,,71
+ghulam nabi azad,supreme court,Undirected,1165,,,71
+ghulam nabi azad,prime minister,Undirected,1162,,,70
+ghulam nabi azad,state government,Undirected,1094,,,35
+ghulam nabi azad,donald trump,Undirected,1003,,,31
+ghulam nabi azad,health minister,Undirected,1016,,,16
+ghulam nabi azad,public health,Undirected,925,,,4
+ghulam nabi azad,republican,Undirected,900,,,2
+ghulam nabi azad,obamacare,Undirected,875,,,1
+gandhi family,india,Undirected,1257,,,959
+gandhi family,ghulam nabi azad,Undirected,1195,,,651
+gandhi family,narendra modi,Undirected,1201,,,478
+gandhi family,uttar pradesh,Undirected,1264,,,236
+gandhi family,prime minister,Undirected,1122,,,182
+gandhi family,muslim,Undirected,1030,,,114
+gandhi family,hindu,Undirected,1038,,,102
+gandhi family,supreme court,Undirected,1190,,,90
+gandhi family,health minister,Undirected,1047,,,87
+gandhi family,lok sabha,Undirected,1152,,,66
+gandhi family,donald trump,Undirected,1063,,,62
+gandhi family,state government,Undirected,1143,,,61
+gandhi family,public health,Undirected,897,,,10
+gandhi family,obamacare,Undirected,924,,,9
+donald trump,republican,Undirected,1216,,,259
+donald trump,india,Undirected,1214,,,252
+donald trump,obamacare,Undirected,1178,,,194
+donald trump,joe biden,Undirected,1120,,,170
+donald trump,medicaid,Undirected,1093,,,103
+donald trump,supreme court,Undirected,1065,,,57
+donald trump,public health,Undirected,1062,,,54
+donald trump,prime minister,Undirected,1022,,,41
+donald trump,health minister,Undirected,1029,,,41
+donald trump,muslim,Undirected,1009,,,30
+donald trump,hindu,Undirected,986,,,24
+donald trump,state government,Undirected,987,,,24
+donald trump,lok sabha,Undirected,1025,,,18
+donald trump,uttar pradesh,Undirected,1002,,,14
+delhi,india,Undirected,1299,,,1010
+delhi,gandhi family,Undirected,1295,,,717
+delhi,ghulam nabi azad,Undirected,1282,,,409
+delhi,narendra modi,Undirected,1281,,,388
+delhi,rajya sabha,Undirected,1268,,,248
+delhi,lok sabha,Undirected,1267,,,245
+delhi,uttar pradesh,Undirected,1255,,,183
+delhi,health minister,Undirected,1247,,,170
+delhi,state government,Undirected,1212,,,117
+delhi,hindu,Undirected,1210,,,114
+delhi,supreme court,Undirected,1208,,,112
+delhi,prime minister,Undirected,1199,,,96
+delhi,muslim,Undirected,1194,,,92
+delhi,Manmohan Singh,Undirected,1189,,,90
+delhi,donald trump,Undirected,1176,,,80
+delhi,public health,Undirected,1088,,,34
+delhi,obamacare,Undirected,1008,,,15
+delhi,joe biden,Undirected,946,,,14
+delhi,republican,Undirected,985,,,12
+delhi,medicaid,Undirected,874,,,1
+covid-19,india,Undirected,1298,,,871
+covid-19,health minister,Undirected,1274,,,320
+covid-19,delhi,Undirected,1273,,,317
+covid-19,joe biden,Undirected,1236,,,294
+covid-19,donald trump,Undirected,1269,,,265
+covid-19,gandhi family,Undirected,1249,,,175
+covid-19,narendra modi,Undirected,1248,,,172
+covid-19,public health,Undirected,1233,,,141
+covid-19,republican,Undirected,1203,,,103
+covid-19,state government,Undirected,1192,,,92
+covid-19,supreme court,Undirected,1193,,,92
+covid-19,uttar pradesh,Undirected,1183,,,85
+covid-19,lok sabha,Undirected,1169,,,76
+covid-19,prime minister,Undirected,1156,,,67
+covid-19,rajya sabha,Undirected,1157,,,67
+covid-19,hindu,Undirected,1131,,,48
+covid-19,medicaid,Undirected,1117,,,43
+covid-19,ghulam nabi azad,Undirected,1099,,,36
+covid-19,Manmohan Singh,Undirected,1080,,,32
+covid-19,muslim,Undirected,1057,,,25
+covid-19,obamacare,Undirected,1028,,,19
+congress,india,Undirected,1301,,,1252
+congress,gandhi family,Undirected,1300,,,1214
+congress,delhi,Undirected,1297,,,796
+congress,ghulam nabi azad,Undirected,1293,,,670
+congress,narendra modi,Undirected,1286,,,475
+congress,covid-19,Undirected,1285,,,420
+congress,lok sabha,Undirected,1279,,,365
+congress,rajya sabha,Undirected,1278,,,364
+congress,donald trump,Undirected,1272,,,302
+congress,uttar pradesh,Undirected,1263,,,225
+congress,health minister,Undirected,1258,,,195
+congress,republican,Undirected,1254,,,182
+congress,supreme court,Undirected,1252,,,180
+congress,hindu,Undirected,1244,,,155
+congress,state government,Undirected,1241,,,152
+congress,prime minister,Undirected,1231,,,138
+congress,muslim,Undirected,1226,,,136
+congress,obamacare,Undirected,1222,,,132
+congress,Manmohan Singh,Undirected,1221,,,129
+congress,joe biden,Undirected,1121,,,98
+congress,medicaid,Undirected,1198,,,96
+congress,public health,Undirected,1150,,,65
+chief minister,congress,Undirected,1292,,,598
+chief minister,india,Undirected,1291,,,589
+chief minister,gandhi family,Undirected,1287,,,486
+chief minister,delhi,Undirected,1284,,,415
+chief minister,ghulam nabi azad,Undirected,1270,,,275
+chief minister,narendra modi,Undirected,1262,,,225
+chief minister,lok sabha,Undirected,1243,,,154
+chief minister,uttar pradesh,Undirected,1242,,,153
+chief minister,covid-19,Undirected,1238,,,147
+chief minister,rajya sabha,Undirected,1235,,,144
+chief minister,state government,Undirected,1220,,,129
+chief minister,health minister,Undirected,1213,,,119
+chief minister,supreme court,Undirected,1182,,,85
+chief minister,hindu,Undirected,1160,,,69
+chief minister,Manmohan Singh,Undirected,1155,,,67
+chief minister,prime minister,Undirected,1138,,,57
+chief minister,muslim,Undirected,1128,,,47
+chief minister,donald trump,Undirected,1056,,,25
+chief minister,public health,Undirected,999,,,13
+chief minister,republican,Undirected,942,,,6
+chief minister,obamacare,Undirected,920,,,4
+chief minister,joe biden,Undirected,871,,,2
+chief minister,medicaid,Undirected,872,,,1
+america,donald trump,Undirected,1246,,,169
+america,india,Undirected,1245,,,161
+america,congress,Undirected,1237,,,146
+america,covid-19,Undirected,1225,,,135
+america,republican,Undirected,1202,,,99
+america,joe biden,Undirected,1177,,,81
+america,obamacare,Undirected,1174,,,78
+america,medicaid,Undirected,1137,,,54
+america,public health,Undirected,1130,,,48
+america,supreme court,Undirected,1119,,,44
+america,delhi,Undirected,1072,,,29
+america,health minister,Undirected,1052,,,24
+america,muslim,Undirected,1020,,,17
+america,gandhi family,Undirected,1014,,,16
+america,chief minister,Undirected,1001,,,14
+america,hindu,Undirected,983,,,12
+america,narendra modi,Undirected,984,,,12
+america,prime minister,Undirected,976,,,11
+america,state government,Undirected,945,,,7
+america,ghulam nabi azad,Undirected,931,,,5
+america,lok sabha,Undirected,932,,,5
+america,uttar pradesh,Undirected,918,,,4
+america,Manmohan Singh,Undirected,908,,,3
+america,rajya sabha,Undirected,870,,,1
+aiims,india,Undirected,1239,,,148
+aiims,delhi,Undirected,1211,,,117
+aiims,congress,Undirected,1186,,,88
+aiims,gandhi family,Undirected,1173,,,78
+aiims,chief minister,Undirected,1146,,,63
+aiims,health minister,Undirected,1116,,,43
+aiims,covid-19,Undirected,1102,,,37
+aiims,narendra modi,Undirected,1098,,,36
+aiims,lok sabha,Undirected,1076,,,31
+aiims,state government,Undirected,1064,,,27
+aiims,rajya sabha,Undirected,1019,,,17
+aiims,prime minister,Undirected,1013,,,16
+aiims,ghulam nabi azad,Undirected,996,,,13
+aiims,supreme court,Undirected,997,,,13
+aiims,uttar pradesh,Undirected,998,,,13
+aiims,Manmohan Singh,Undirected,982,,,12
+aiims,muslim,Undirected,961,,,9
+aiims,hindu,Undirected,953,,,8
+aiims,public health,Undirected,941,,,6
+aiims,donald trump,Undirected,907,,,3
+aiims,america,Undirected,893,,,2
