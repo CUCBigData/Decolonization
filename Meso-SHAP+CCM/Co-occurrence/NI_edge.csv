@@ -1,0 +1,292 @@
+Source,Target,Type,Id,Label,timeset,Weight
+america,boko haram,Undirected,0,,,36
+america,buhari,Undirected,1,,,52
+america,bukola saraki,Undirected,2,,,16
+america,china,Undirected,3,,,100
+america,covid-19,Undirected,4,,,108
+america,democratic party,Undirected,5,,,12
+america,ebola,Undirected,6,,,32
+america,federal government,Undirected,8,,,68
+america,health minister,Undirected,9,,,36
+america,health sector,Undirected,10,,,40
+america,health workers,Undirected,11,,,36
+america,kaduna,Undirected,12,,,12
+america,lassa fever,Undirected,14,,,4
+america,medical association,Undirected,15,,,28
+america,national assembly,Undirected,17,,,24
+america,national hospital,Undirected,18,,,8
+america,news organizations,Undirected,19,,,16
+america,nigeria,Undirected,20,,,512
+america,progressives congress,Undirected,21,,,16
+america,senate committee,Undirected,22,,,32
+america,sexual violence,Undirected,23,,,12
+america,state government,Undirected,24,,,24
+america,Western Africa,Undirected,25,,,200
+boko haram,buhari,Undirected,26,,,108
+boko haram,bukola saraki,Undirected,27,,,32
+boko haram,chibok,Undirected,28,,,88
+boko haram,china,Undirected,29,,,40
+boko haram,covid-19,Undirected,30,,,16
+boko haram,democratic party,Undirected,31,,,64
+boko haram,ebola,Undirected,32,,,20
+boko haram,federal government,Undirected,34,,,156
+boko haram,health sector,Undirected,35,,,4
+boko haram,health workers,Undirected,36,,,16
+boko haram,kaduna,Undirected,37,,,64
+boko haram,lassa fever,Undirected,39,,,12
+boko haram,medical association,Undirected,40,,,36
+boko haram,national assembly,Undirected,42,,,64
+boko haram,national hospital,Undirected,43,,,36
+boko haram,news organizations,Undirected,44,,,28
+boko haram,nigeria,Undirected,45,,,828
+boko haram,progressives congress,Undirected,46,,,80
+boko haram,senate committee,Undirected,47,,,24
+boko haram,sexual violence,Undirected,48,,,52
+boko haram,state government,Undirected,49,,,36
+boko haram,Western Africa,Undirected,50,,,176
+buhari,bukola saraki,Undirected,51,,,100
+buhari,chibok,Undirected,52,,,48
+buhari,china,Undirected,53,,,48
+buhari,covid-19,Undirected,54,,,104
+buhari,democratic party,Undirected,55,,,112
+buhari,ebola,Undirected,56,,,40
+buhari,federal government,Undirected,58,,,220
+buhari,health minister,Undirected,59,,,32
+buhari,health sector,Undirected,60,,,84
+buhari,health workers,Undirected,61,,,64
+buhari,kaduna,Undirected,62,,,120
+buhari,lassa fever,Undirected,64,,,8
+buhari,medical association,Undirected,65,,,68
+buhari,national assembly,Undirected,67,,,200
+buhari,national hospital,Undirected,68,,,44
+buhari,news organizations,Undirected,69,,,36
+buhari,nigeria,Undirected,70,,,1468
+buhari,progressives congress,Undirected,71,,,148
+buhari,senate committee,Undirected,72,,,84
+buhari,sexual violence,Undirected,73,,,16
+buhari,state government,Undirected,74,,,80
+buhari,Western Africa,Undirected,75,,,248
+bukola saraki,chibok,Undirected,76,,,12
+bukola saraki,covid-19,Undirected,77,,,4
+bukola saraki,democratic party,Undirected,78,,,68
+bukola saraki,federal government,Undirected,80,,,168
+bukola saraki,health minister,Undirected,81,,,12
+bukola saraki,health sector,Undirected,82,,,40
+bukola saraki,health workers,Undirected,83,,,40
+bukola saraki,kaduna,Undirected,84,,,48
+bukola saraki,lassa fever,Undirected,86,,,16
+bukola saraki,medical association,Undirected,87,,,28
+bukola saraki,national assembly,Undirected,89,,,136
+bukola saraki,national hospital,Undirected,90,,,56
+bukola saraki,news organizations,Undirected,91,,,28
+bukola saraki,nigeria,Undirected,92,,,772
+bukola saraki,progressives congress,Undirected,93,,,64
+bukola saraki,senate committee,Undirected,94,,,80
+bukola saraki,state government,Undirected,95,,,28
+bukola saraki,Western Africa,Undirected,96,,,84
+chibok,democratic party,Undirected,100,,,20
+chibok,ebola,Undirected,101,,,8
+chibok,federal government,Undirected,102,,,72
+chibok,health minister,Undirected,103,,,4
+chibok,kaduna,Undirected,104,,,12
+chibok,medical association,Undirected,105,,,4
+chibok,national assembly,Undirected,107,,,20
+chibok,national hospital,Undirected,108,,,16
+chibok,nigeria,Undirected,109,,,252
+chibok,progressives congress,Undirected,110,,,12
+chibok,sexual violence,Undirected,111,,,16
+chibok,state government,Undirected,112,,,4
+chibok,Western Africa,Undirected,113,,,32
+china,covid-19,Undirected,114,,,352
+china,democratic party,Undirected,115,,,24
+china,ebola,Undirected,116,,,120
+china,federal government,Undirected,117,,,152
+china,health minister,Undirected,118,,,104
+china,health sector,Undirected,119,,,24
+china,health workers,Undirected,120,,,60
+china,kaduna,Undirected,121,,,24
+china,lassa fever,Undirected,123,,,20
+china,medical association,Undirected,124,,,44
+china,national assembly,Undirected,126,,,64
+china,national hospital,Undirected,127,,,12
+china,news organizations,Undirected,128,,,28
+china,nigeria,Undirected,129,,,864
+china,progressives congress,Undirected,130,,,20
+china,senate committee,Undirected,131,,,48
+china,sexual violence,Undirected,132,,,8
+china,state government,Undirected,133,,,96
+china,Western Africa,Undirected,134,,,504
+covid-19,democratic party,Undirected,136,,,48
+covid-19,ebola,Undirected,137,,,84
+covid-19,federal government,Undirected,139,,,504
+covid-19,health minister,Undirected,140,,,188
+covid-19,health sector,Undirected,141,,,140
+covid-19,health workers,Undirected,142,,,204
+covid-19,kaduna,Undirected,143,,,68
+covid-19,lassa fever,Undirected,145,,,32
+covid-19,medical association,Undirected,146,,,140
+covid-19,national assembly,Undirected,148,,,248
+covid-19,national hospital,Undirected,149,,,28
+covid-19,news organizations,Undirected,150,,,40
+covid-19,nigeria,Undirected,151,,,1992
+covid-19,progressives congress,Undirected,152,,,36
+covid-19,senate committee,Undirected,153,,,100
+covid-19,state government,Undirected,154,,,180
+covid-19,Western Africa,Undirected,155,,,428
+democratic party,ebola,Undirected,156,,,16
+democratic party,federal government,Undirected,158,,,116
+democratic party,health minister,Undirected,159,,,24
+democratic party,health sector,Undirected,160,,,16
+democratic party,health workers,Undirected,161,,,8
+democratic party,kaduna,Undirected,162,,,56
+democratic party,medical association,Undirected,164,,,24
+democratic party,national assembly,Undirected,166,,,128
+democratic party,national hospital,Undirected,167,,,36
+democratic party,news organizations,Undirected,168,,,28
+democratic party,nigeria,Undirected,169,,,744
+democratic party,progressives congress,Undirected,170,,,184
+democratic party,senate committee,Undirected,171,,,48
+democratic party,sexual violence,Undirected,172,,,4
+democratic party,state government,Undirected,173,,,68
+democratic party,Western Africa,Undirected,174,,,80
+ebola,federal government,Undirected,175,,,80
+ebola,health minister,Undirected,176,,,184
+ebola,health sector,Undirected,177,,,60
+ebola,health workers,Undirected,178,,,280
+ebola,kaduna,Undirected,179,,,4
+ebola,lassa fever,Undirected,181,,,24
+ebola,medical association,Undirected,182,,,44
+ebola,national assembly,Undirected,184,,,28
+ebola,national hospital,Undirected,185,,,16
+ebola,news organizations,Undirected,186,,,84
+ebola,nigeria,Undirected,187,,,1000
+ebola,progressives congress,Undirected,188,,,12
+ebola,senate committee,Undirected,189,,,16
+ebola,sexual violence,Undirected,190,,,4
+ebola,state government,Undirected,191,,,32
+ebola,Western Africa,Undirected,192,,,1736
+federal government,health minister,Undirected,208,,,180
+federal government,health sector,Undirected,209,,,300
+federal government,health workers,Undirected,210,,,300
+federal government,kaduna,Undirected,211,,,148
+federal government,lassa fever,Undirected,213,,,124
+federal government,medical association,Undirected,214,,,356
+federal government,national assembly,Undirected,216,,,456
+federal government,national hospital,Undirected,217,,,80
+federal government,news organizations,Undirected,218,,,128
+federal government,nigeria,Undirected,219,,,3316
+federal government,progressives congress,Undirected,220,,,132
+federal government,senate committee,Undirected,221,,,168
+federal government,sexual violence,Undirected,222,,,4
+federal government,state government,Undirected,223,,,284
+federal government,Western Africa,Undirected,224,,,332
+health minister,health sector,Undirected,225,,,56
+health sector,health workers,Undirected,226,,,316
+health sector,kaduna,Undirected,227,,,40
+health sector,lassa fever,Undirected,229,,,28
+health sector,medical association,Undirected,230,,,300
+health sector,national assembly,Undirected,232,,,168
+health sector,national hospital,Undirected,233,,,52
+health sector,news organizations,Undirected,234,,,112
+health sector,nigeria,Undirected,235,,,1900
+health sector,progressives congress,Undirected,236,,,40
+health sector,senate committee,Undirected,237,,,88
+health sector,state government,Undirected,238,,,156
+health sector,Western Africa,Undirected,239,,,520
+health workers,kaduna,Undirected,254,,,20
+health workers,lassa fever,Undirected,256,,,36
+health workers,medical association,Undirected,257,,,152
+health workers,national assembly,Undirected,259,,,72
+health workers,national hospital,Undirected,260,,,32
+health workers,news organizations,Undirected,261,,,84
+health workers,nigeria,Undirected,262,,,1176
+health workers,progressives congress,Undirected,263,,,8
+health workers,senate committee,Undirected,264,,,44
+health workers,state government,Undirected,265,,,64
+health workers,Western Africa,Undirected,266,,,924
+kaduna,lassa fever,Undirected,268,,,4
+kaduna,medical association,Undirected,269,,,52
+kaduna,national assembly,Undirected,271,,,120
+kaduna,national hospital,Undirected,272,,,32
+kaduna,news organizations,Undirected,273,,,16
+kaduna,nigeria,Undirected,274,,,752
+kaduna,progressives congress,Undirected,275,,,64
+kaduna,senate committee,Undirected,276,,,36
+kaduna,state government,Undirected,277,,,68
+kaduna,Western Africa,Undirected,278,,,92
+lassa fever,medical association,Undirected,290,,,4
+lassa fever,national assembly,Undirected,292,,,16
+lassa fever,national hospital,Undirected,293,,,8
+lassa fever,news organizations,Undirected,294,,,12
+lassa fever,nigeria,Undirected,295,,,308
+lassa fever,progressives congress,Undirected,296,,,4
+lassa fever,senate committee,Undirected,297,,,20
+lassa fever,state government,Undirected,298,,,40
+lassa fever,Western Africa,Undirected,299,,,120
+medical association,national assembly,Undirected,301,,,108
+medical association,national hospital,Undirected,302,,,28
+medical association,news organizations,Undirected,303,,,72
+medical association,nigeria,Undirected,304,,,1520
+medical association,progressives congress,Undirected,305,,,32
+medical association,senate committee,Undirected,306,,,44
+medical association,state government,Undirected,307,,,176
+medical association,Western Africa,Undirected,308,,,68
+national assembly,national hospital,Undirected,318,,,76
+national assembly,news organizations,Undirected,319,,,40
+national assembly,nigeria,Undirected,320,,,1888
+national assembly,progressives congress,Undirected,321,,,124
+national assembly,senate committee,Undirected,322,,,204
+national assembly,state government,Undirected,323,,,104
+national assembly,Western Africa,Undirected,324,,,152
+national hospital,news organizations,Undirected,325,,,24
+national hospital,nigeria,Undirected,326,,,448
+national hospital,progressives congress,Undirected,327,,,28
+national hospital,senate committee,Undirected,328,,,12
+national hospital,sexual violence,Undirected,329,,,4
+national hospital,state government,Undirected,330,,,32
+national hospital,Western Africa,Undirected,331,,,112
+news organizations,nigeria,Undirected,332,,,676
+news organizations,progressives congress,Undirected,333,,,24
+news organizations,senate committee,Undirected,334,,,24
+news organizations,sexual violence,Undirected,335,,,16
+news organizations,state government,Undirected,336,,,56
+news organizations,Western Africa,Undirected,337,,,192
+nigeria,progressives congress,Undirected,339,,,768
+nigeria,senate committee,Undirected,340,,,852
+nigeria,sexual violence,Undirected,341,,,96
+nigeria,state government,Undirected,342,,,1060
+nigeria,Western Africa,Undirected,343,,,3812
+progressives congress,senate committee,Undirected,348,,,56
+progressives congress,state government,Undirected,349,,,84
+progressives congress,Western Africa,Undirected,350,,,56
+senate committee,state government,Undirected,351,,,48
+sexual violence,state government,Undirected,352,,,4
+sexual violence,Western Africa,Undirected,353,,,68
+Western Africa,health minister,Undirected,354,,,196
+Western Africa,senate committee,Undirected,366,,,92
+Western Africa,state government,Undirected,368,,,128
+america,labour,Undirected,13,,,24
+boko haram,labour,Undirected,38,,,15
+buhari,labour,Undirected,63,,,30
+bukola saraki,labour,Undirected,85,,,21
+china,labour,Undirected,122,,,9
+covid-19,covid-19,Undirected,135,,,117
+covid-19,labour,Undirected,144,,,48
+democratic party,labour,Undirected,163,,,27
+ebola,labour,Undirected,180,,,3
+federal government,labour,Undirected,212,,,117
+health sector,labour,Undirected,228,,,66
+health workers,labour,Undirected,255,,,66
+kaduna,labour,Undirected,267,,,24
+labour,medical association,Undirected,279,,,84
+labour,national assembly,Undirected,281,,,36
+labour,national hospital,Undirected,282,,,6
+labour,news organizations,Undirected,283,,,18
+labour,nigeria,Undirected,284,,,369
+labour,progressives congress,Undirected,285,,,27
+labour,senate committee,Undirected,286,,,30
+labour,sexual violence,Undirected,287,,,3
+labour,state government,Undirected,288,,,21
+labour,Western Africa,Undirected,289,,,15
+nigeria,nigeria,Undirected,338,,,3459
+Western Africa,Western Africa,Undirected,369,,,1743
