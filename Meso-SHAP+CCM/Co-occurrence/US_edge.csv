@@ -1,14 +1,14 @@
 Source,Target,Type,Id,Label,timeset,Weight
 Bernie Sanders,india,Undirected,1672,,,10
 Bernie Sanders,federal government,Undirected,1679,,,32
-Bernie Sanders,public health,Undirected,1680,,,23
+Bernie Sanders,planned parenthood,Undirected,1680,,,23
 Bernie Sanders,Racial Matter,Undirected,1687,,,20
 Bernie Sanders,health insurance,Undirected,1691,,,33
 Bernie Sanders,china,Undirected,1694,,,38
 Bernie Sanders,covid-19,Undirected,1695,,,58
 Bernie Sanders,medicaid,Undirected,1703,,,49
 the Clintons,covid-19,Undirected,1712,,,12
-the Clintons,public health,Undirected,1713,,,13
+the Clintons,planned parenthood,Undirected,1713,,,13
 the Clintons,prevention,Undirected,1717,,,14
 Racial Matter,the Clintons,Undirected,1724,,,16
 china,health insurance,Undirected,1725,,,17
@@ -34,7 +34,7 @@ Bernie Sanders,joe biden,Undirected,1793,,,207
 health insurance,prevention,Undirected,1797,,,36
 china,medicaid,Undirected,1799,,,37
 Bernie Sanders,democrat,Undirected,1805,,,89
-health insurance,public health,Undirected,1806,,,40
+health insurance,planned parenthood,Undirected,1806,,,40
 india,medicaid,Undirected,1810,,,42
 the Clintons,medicare,Undirected,1811,,,42
 health care,india,Undirected,1812,,,43
@@ -49,7 +49,7 @@ Racial Matter,joe biden,Undirected,1837,,,110
 the Clintons,health care,Undirected,1838,,,50
 the Clintons,medicaid,Undirected,1839,,,50
 Racial Matter,democrat,Undirected,1840,,,51
-Racial Matter,public health,Undirected,1844,,,52
+Racial Matter,planned parenthood,Undirected,1844,,,52
 Racial Matter,prevention,Undirected,1847,,,53
 china,health care,Undirected,1848,,,54
 china,the Clintons,Undirected,1850,,,54
@@ -60,13 +60,13 @@ Racial Matter,china,Undirected,1861,,,58
 india,prevention,Undirected,1865,,,62
 democrat,health insurance,Undirected,1866,,,63
 india,republican,Undirected,1867,,,63
-india,public health,Undirected,1874,,,66
+india,planned parenthood,Undirected,1874,,,66
 india,white house,Undirected,1877,,,67
 the Clintons,white house,Undirected,1884,,,68
 india,obamacare,Undirected,1886,,,71
 health care,joe biden,Undirected,1888,,,175
 Bernie Sanders,white house,Undirected,1891,,,74
-democrat,public health,Undirected,1896,,,77
+democrat,planned parenthood,Undirected,1896,,,77
 health insurance,white house,Undirected,1897,,,77
 Racial Matter,health care,Undirected,1899,,,78
 china,democrat,Undirected,1901,,,80
@@ -86,28 +86,28 @@ medicaid,prevention,Undirected,1941,,,109
 china,joe biden,Undirected,1942,,,226
 joe biden,democrat,Undirected,1944,,,227
 covid-19,obamacare,Undirected,1946,,,114
-medicare,public health,Undirected,1947,,,114
+medicare,planned parenthood,Undirected,1947,,,114
 federal government,health insurance,Undirected,1950,,,116
 the Clintons,congress,Undirected,1953,,,117
-public health,white house,Undirected,1955,,,119
-china,public health,Undirected,1957,,,126
+planned parenthood,white house,Undirected,1955,,,119
+china,planned parenthood,Undirected,1957,,,126
 america,Bernie Sanders,Undirected,1958,,,127
-donald trump,public health,Undirected,1961,,,333
-obamacare,public health,Undirected,1965,,,131
+donald trump,planned parenthood,Undirected,1961,,,333
+obamacare,planned parenthood,Undirected,1965,,,131
 democrat,medicaid,Undirected,1967,,,134
 Racial Matter,congress,Undirected,1969,,,135
 china,obamacare,Undirected,1971,,,139
-medicaid,public health,Undirected,1972,,,140
+medicaid,planned parenthood,Undirected,1972,,,140
 china,white house,Undirected,1974,,,142
-health care,public health,Undirected,1976,,,143
+health care,planned parenthood,Undirected,1976,,,143
 obamacare,prevention,Undirected,1978,,,143
 democrat,medicare,Undirected,1979,,,144
 donald trump,health insurance,Undirected,1980,,,330
 the Clintons,obamacare,Undirected,1981,,,147
-federal government,public health,Undirected,1983,,,150
+federal government,planned parenthood,Undirected,1983,,,150
 china,republican,Undirected,1986,,,151
 the Clintons,republican,Undirected,1987,,,151
-joe biden,public health,Undirected,1988,,,154
+joe biden,planned parenthood,Undirected,1988,,,154
 Racial Matter,donald trump,Undirected,1989,,,157
 america,india,Undirected,1993,,,161
 Racial Matter,covid-19,Undirected,1994,,,161
@@ -129,7 +129,7 @@ medicaid,white house,Undirected,2020,,,199
 democrat,white house,Undirected,2022,,,200
 joe biden,medicare,Undirected,2025,,,206
 federal government,health care,Undirected,2028,,,212
-public health,republican,Undirected,2030,,,217
+planned parenthood,republican,Undirected,2030,,,217
 china,india,Undirected,2031,,,218
 covid-19,democrat,Undirected,2033,,,228
 joe biden,prevention,Undirected,2034,,,231
@@ -142,7 +142,7 @@ federal government,medicare,Undirected,2042,,,259
 federal government,obamacare,Undirected,2043,,,259
 congress,india,Undirected,2046,,,264
 democrat,obamacare,Undirected,2047,,,264
-prevention,public health,Undirected,2048,,,264
+prevention,planned parenthood,Undirected,2048,,,264
 donald trump,health care,Undirected,2049,,,631
 state,india,Undirected,2050,,,751
 america,prevention,Undirected,2051,,,276
@@ -151,7 +151,7 @@ donald trump,medicaid,Undirected,2054,,,730
 health insurance,republican,Undirected,2055,,,281
 prevention,republican,Undirected,2056,,,287
 covid-19,medicaid,Undirected,2057,,,289
-america,public health,Undirected,2058,,,294
+america,planned parenthood,Undirected,2058,,,294
 america,democrat,Undirected,2060,,,295
 covid-19,medicare,Undirected,2061,,,300
 congress,joe biden,Undirected,2062,,,681
@@ -164,7 +164,7 @@ state,health insurance,Undirected,2072,,,1060
 china,congress,Undirected,2073,,,317
 congress,health insurance,Undirected,2074,,,321
 america,federal government,Undirected,2076,,,359
-congress,public health,Undirected,2079,,,369
+congress,planned parenthood,Undirected,2079,,,369
 health insurance,obamacare,Undirected,2082,,,387
 medicare,republican,Undirected,2083,,,397
 joe biden,white house,Undirected,2085,,,402
@@ -178,7 +178,7 @@ america,medicare,Undirected,2093,,,452
 obamacare,white house,Undirected,2094,,,453
 covid-19,federal government,Undirected,2095,,,454
 america,health care,Undirected,2096,,,476
-public health,state,Undirected,2098,,,1743
+planned parenthood,state,Undirected,2098,,,1743
 health care,medicare,Undirected,2099,,,482
 congress,prevention,Undirected,2103,,,487
 health care,republican,Undirected,2104,,,487
@@ -194,7 +194,7 @@ republican,white house,Undirected,2114,,,532
 health care,medicaid,Undirected,2116,,,539
 china,donald trump,Undirected,2117,,,541
 china,covid-19,Undirected,2118,,,542
-covid-19,public health,Undirected,2119,,,544
+covid-19,planned parenthood,Undirected,2119,,,544
 donald trump,obamacare,Undirected,2120,,,1243
 democrat,donald trump,Undirected,2123,,,592
 medicaid,republican,Undirected,2125,,,596
